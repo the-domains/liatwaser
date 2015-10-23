@@ -1,0 +1,23 @@
+name: liatwaser
+favicon: null
+layout_spectrum: 0.7648884460795671
+typography_spectrum: 0.7532200436107814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3480800779070705
+  lightness: 0.44420021516270936
+  saturation: 0.5729149905964732
+  rhythmicContrast: 0.41392820701003075
+purpose: []
